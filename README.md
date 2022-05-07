@@ -9,7 +9,7 @@ Script Remove Friend Facebook
  $ python -m pip install requests
  $ python -m pip install bs4
  $ python -m pip install rich
- $ git clone https://github.com/RozhBas/REMOVE
+ $ git clone https://github.com/RozhBasXYZ/REMOVE
  $ cd REMOVE
  $ python run.py
  ```
